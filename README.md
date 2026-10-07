@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @Arjun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Hi, I'm Arjun 👋
+Python Full-Stack Developer (Django) based in Kerala, India.
 
-<!---
-Arjunxo/Arjunxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-trying to study python
+- 🔭 Building: Django web apps with payment integration
+- 🛠️ Stack: Python, Django, SQL, HTML, CSS, Razorpay
+- 💼 Open to full-time roles / internships
+- 📫 Reach me: your-email@example.com | LinkedIn link
